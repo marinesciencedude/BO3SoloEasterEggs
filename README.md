@@ -11,11 +11,11 @@
 * Pressure plate is considered 'stepped on' by default in Solo so going down the slide successfully hits the switch
 
 ## To-do:
-[]Replace var_ and function_ with actual names
-[]Add a proper solo tile-matching step rather than skipping it
-[]GetEnt for Ascension rather than spawning new entities to thread functions on
-[]Shadows of Evil
+* Replace var_ and function_ with actual names  
+* Add a proper solo tile-matching step rather than skipping it  
+* GetEnt for Ascension rather than spawning new entities to thread functions on  
+* Shadows of Evil
 
 ## Credits:
-* @shiversoftdev/@seriousyt for https://github.com/shiversoftdev/t7-source that was used as reference for _ffotd.gsc files and the easter egg scripts themselves
+* [shiversoftdev](https://github.com/shiversoftdev) AKA [seriousyt](https://github.com/seriousyt) for https://github.com/shiversoftdev/t7-source that was used as reference for _ffotd.gsc files and the easter egg scripts themselves
 * [Korlesa](https://steamcommunity.com/id/Korlesa) for the original [Solo Easter Eggs](https://steamcommunity.com/sharedfiles/filedetails/?id=1944930083) mod, much as the only pointers I got from the project were to use _ffotd.gsc files
